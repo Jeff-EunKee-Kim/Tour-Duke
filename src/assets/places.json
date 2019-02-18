@@ -1,0 +1,157 @@
+{
+    "places": [
+    {
+        "name": "Duke Chapel",
+        "address": "401 Chapel Dr, Durham, NC 27708",
+        "coordinates": [36.0019125, -78.9403615],
+        "description": "Magnificent chapel built in gothic architecutre serving as the main building at Duke University",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/chapel.png"
+    },
+    {
+        "name": "Perkins Library",
+        "address": "411 Chapel Drive Durham, NC 27708",
+        "coordinates": [36.0029782, -78.93832629999997],
+        "description": "Home for many students who enjoy studying in a public place",
+        "categories1": "West",
+        "categories2": "Education",
+        "imgUrl": "src/assets/Perkins_Library.jpeg"
+    },
+      {
+        "name": "Nasher Museum of Arts",
+        "address": "2001 Campus Dr, Durham, NC 27705",
+        "coordinates": [35.9990359, -78.92903590000003],
+        "description": "Art museum with collections of creative and amazing art works",
+        "categories1": "Central",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/Nasher_museum.png"
+    },
+    {
+        "name": "Devil's Bistro",
+        "address": "1917 Yearby Ave Durham, NC 27705",
+        "coordinates": [36.0041596, -78.92901740000002],
+        "description": "Dining place for students living at central campus",
+        "categories1": "Central",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/DevilsBistro.JPG"
+    },
+    {
+        "name": "Brodhead Center",
+        "address": "402 Chapel Dr, Durham, NC 27710",
+        "coordinates": [36.0011944, -78.93991729999999],
+        "description": "Recently renovated building that brings people together by dining, studying, and socializing",
+        "categories1": "West",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/WestUnion.jpeg"
+    },
+    {
+        "name": "Duke Lemur Center",
+        "address": "3705 Erwin Rd, Durham, NC 27705",
+        "coordinates": [35.9944983, -78.96085819999996],
+        "description": "Place to see world's largest and most diverse collections of lemurs",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/LemurCenter.png"
+    },
+    {
+        "name": "Sarah P. Duke Gardens",
+        "address": "420 Anderson St, Durham, NC 27708",
+        "coordinates": [36.0024617, -78.93323529999998],
+        "description": "55 acres large garden with full of flowers and a beautiful pond",
+        "categories1": "Central",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/garden.jpg"
+    },
+    {
+        "name": "Baldwin Auditorium",
+        "address": "1336 Campus Drive, Durham, NC 27705",
+        "coordinates": [36.009034, -78.91465240000002],
+        "description": "Classic Georgian auditorium where great musical performances happen",
+        "categories1": "East",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/Baldwin.jpg"
+    },
+    {
+        "name": "Cameron Indoor Stadium",
+        "address": "115 Whitford Dr, Durham, NC 27705",
+        "coordinates": [35.9979158, -78.94236999999998],
+        "description": "Home of Duke basketball and coach K, where all the passion is",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/cameron.jpg"
+    },
+        {
+        "name": "Puppy Center",
+        "address": "15 Circuit Dr, Durham, NC 27710",
+        "coordinates": [36.0022589, -78.9431601],
+        "description": "Look at everybody's favorite, retriever puppies, Kyler and Ernie!",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/puppy.jpg"
+    },
+    {
+        "name": "Wallace Wade Stadium",
+        "address": "110 Frank Basset Dr, Durham, NC 27705",
+        "coordinates": [35.99536879999999, -78.94175640000003],
+        "description": "Recently renovated football stadium which also holds the graduation ceremony at Duke",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/wallace.jpg"
+    },
+    {
+        "name": "Washington Duke Inn & Golf Club",
+        "address": "3001 Cameron Blvd, Durham, NC 27705",
+        "coordinates": [35.9928204, -78.94744550000001],
+        "description": "Enjoy an amazing round of golf during your visit at Duke!",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/WaDuke.jpg"
+    },
+    {
+        "name": "The Commons",
+        "address": "110 Frank Basset Dr, Durham, NC 27705",
+        "coordinates": [36.0009316, -78.93927070000001],
+        "description": "A fancy dine at Duke",
+        "categories1": "West",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/TheCommons.png"
+    },
+    {
+        "name": "Divinity Cafe",
+        "address": "407 Chapel Dr, Durham, NC 27710",
+        "coordinates": [36.0021776, -78.93965209999999],
+        "description": "The best grilled cheese sandwich you can get in Durham",
+        "categories1": "West",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/Divinity.jpg"
+    },
+    {
+        "name": "Duke University Stores",
+        "address": "125 Science Dr, Durham, NC 27710",
+        "coordinates": [36.0010954, -78.94111049999998],
+        "description": "Buy souvenirs for you and your friends!",
+        "categories1": "West",
+        "categories2": "Entertainment",
+        "imgUrl": "src/assets/DuStore.png"
+    },
+    {
+        "name": "Duke Coffeehouse",
+        "address": "106 Epworth Lane, Durham, NC 27708",
+        "coordinates": [36.0066716, -78.91326979999997],
+        "description": "Enjoy a cup of coffee with great music!",
+        "categories1": "East",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/DuCoffee.jpg"
+    },
+    {
+        "name": "Marketplace",
+        "address": "1324 Campus Dr, Durham, NC 27705",
+        "coordinates": [36.0075757, -78.91396099999997],
+        "description": "The dining place you would use if you come to DUke as a freshman!",
+        "categories1": "East",
+        "categories2": "Dining",
+        "imgUrl": "src/assets/Marketplace.jpg"
+    }
+    ]
+}
